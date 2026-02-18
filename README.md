@@ -7,7 +7,7 @@ This is a quick commerce delivery portal that promises to deliver any product or
 
 ---
 
-## Step 1 → Teardown
+## Teardown
 
 |Section         |Flow       |Friction   |
 |----------------|-------------------------------|-----------------------------|
